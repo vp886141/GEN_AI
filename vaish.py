@@ -10,7 +10,7 @@ from langchain.chains.summarize import load_summarize_chain
 # Page title
 st.set_page_config(page_title='PragyanAI-Text SummarizationApp')
 # Display the logo at the top of the page
-st.image("PragyanAI_Transperent.png")  # Adjust width as needed
+st.image("doraemon.jpg")  # Adjust width as needed
 st.divider()  # 👈 Draws a horizontal rule
 st.title('🦜🔗 Text Summarization App')
 st.divider()  # 👈 Draws a horizontal rule
