@@ -1,7 +1,7 @@
 streamlit
 langchain
 lagchain_community
-lagchain_groaq
+lagchain_groq
 groq
 tiktoken
 transformers
