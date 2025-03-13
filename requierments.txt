@@ -1,0 +1,7 @@
+streamlit
+langchain
+lagchain_community
+lagchain_groaq
+groq
+tiktoken
+transformers
